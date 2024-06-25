@@ -1,0 +1,12 @@
+minio*
+*.json
+*.csv
+*.idea
+*__pycache__
+venv
+bin
+lib
+data
+lib64
+include
+pyenv.cfg
